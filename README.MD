@@ -7,14 +7,14 @@ DEBUG = True
 
 
 At http://127.0.0.1:8000/location/ create a query f.e:
-'''
+```
 {
         "name": "Third",
         "address": "Gdansk"
     }
-'''
+```
 At http://127.0.0.1:8000/calendar/ create a query f.e:
-'''
+```
  {
         "start": "2021-05-08T12:58:34Z",
         "end": "2021-05-08T13:58:33Z",
@@ -27,7 +27,7 @@ At http://127.0.0.1:8000/calendar/ create a query f.e:
             "wp@wp.pl"
         ]
     }
-'''
+```
 This app covers all business reqirements listed in instruction.
 
 1. User who creates a location is always a manager of this room;
