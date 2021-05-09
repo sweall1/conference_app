@@ -1,6 +1,7 @@
 As personal preference used signals.py instead of uuid field.
 
 DEBUG = True
+
 SECRET_KEY = os.environ.get('SECRET_KEY')
 
 1. Create super user;
