@@ -1,4 +1,5 @@
 As personal preference used signals.py instead of uuid field.
+
 DEBUG = True
 
 1. Create super user;
