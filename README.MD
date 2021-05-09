@@ -10,7 +10,7 @@ DEBUG = True
 At http://127.0.0.1:8000/location/ create a query f.e:
 ```
     {
-        "name": "Third",
+        "name": "First",
         "address": "Gdansk"
     }
 ```
